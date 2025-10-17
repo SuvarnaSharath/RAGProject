@@ -1,0 +1,9 @@
+langchain>=0.0.300
+sentence-transformers>=2.2.2
+huggingface-hub
+faiss-cpu
+gradio
+tqdm
+fsspec
+PyPDF2
+transformers>=4.33.0
